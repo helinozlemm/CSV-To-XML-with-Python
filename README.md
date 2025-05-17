@@ -17,7 +17,7 @@ Before running the script, make sure you have:
  - First name, 
  - Last name, 
  - Department
-
+   
 Destination XML Format (simplified)
 <users creation="2025-05-17 19:55:00">
   <user type="full">
