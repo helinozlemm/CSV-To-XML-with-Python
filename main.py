@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 delimiter_list = [",", ";", ":"]
-current_timestamp = str(datetime.datetime.now())
+current_timestamp = str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
 
 def getCSVfile():
