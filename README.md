@@ -34,7 +34,8 @@ Destination XML Format (simplified)
 You can freely modify the XML root tag, record tag, and attribute mappings within the code.
 
 You will be prompted to:
-Enter the folder path 
+Enter the folder path [Uploading output.xml…]()
+
 Provide the CSV file name 
 Choose a delimiter (e.g. ,, ;, :)
 Once processed, the resulting XML will be saved as output.xml
