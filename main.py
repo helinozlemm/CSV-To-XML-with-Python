@@ -61,13 +61,14 @@ def readCSVfile(csvfile,delimiter):
 
 def createXMLfile(rows, current_timestamp):
     xml_mapping = {
-        "Login Email": "loginEmail",
+        "Login email": "loginEmail",
         "Identifier": "identifier",
         "One-time password": "oneTimePassword",
         "Recovery code": "recoveryCode",
         "First name": "firstName",
         "Last name": "lastName",
-        "Department": "department"
+        "Department": "department",
+        "location": "location"
     }
 
     #Create the XML root element
