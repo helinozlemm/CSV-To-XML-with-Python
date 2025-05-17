@@ -3,7 +3,6 @@
 CSV to XML Data Transformation – Custom Python Script
 This Python script transforms CSV data into a structured XML format based on a predefined tag mapping. It is designed to help users convert tabular CSV data (such as user records, login info, or product entries) into a well-formed XML file with clean and readable nodes. The output XML structure can be easily customized to match your own schema.
 
-Prerequisites
 Before running the script, make sure you have:
 - Python 3.x installed
 - Required modules (csv, xml.etree.ElementTree, logging, os, datetime) – all are part of Python’s standard library
@@ -16,7 +15,8 @@ Before running the script, make sure you have:
  - Recovery code, 
  - First name, 
  - Last name, 
- - Department
+ - Department,
+ - Location
    
 Destination XML Format (simplified)
 ![image](https://github.com/user-attachments/assets/bfdb9fd2-c765-40d5-9334-9392c97d9dc2)
