@@ -1,4 +1,4 @@
-# CVS-To-XML-with-Python
+# CSV-To-XML-with-Python
 
 CSV to XML Data Transformation – Custom Python Script
 This Python script transforms CSV data into a structured XML format based on a predefined tag mapping. It is designed to help users convert tabular CSV data (such as user records, login info, or product entries) into a well-formed XML file with clean and readable nodes. The output XML structure can be easily customized to match your own schema.
