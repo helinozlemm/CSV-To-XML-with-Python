@@ -19,17 +19,8 @@ Before running the script, make sure you have:
  - Department
    
 Destination XML Format (simplified)
-<users creation="2025-05-17 19:55:00">
-  <user type="full">
-    <loginEmail>helin@company.com</loginEmail>
-    <identifier>1234</identifier>
-    <oneTimePassword>12se74</oneTimePassword>
-    <recoveryCode>hc1234</recoveryCode>
-    <firstName>Helin</firstName>
-    <lastName>Doğan</lastName>
-    <department>IT</department>
-  </user>
-</users>
+![image](https://github.com/user-attachments/assets/bfdb9fd2-c765-40d5-9334-9392c97d9dc2)
+
 
 You can freely modify the XML root tag, record tag, and attribute mappings within the code.
 
